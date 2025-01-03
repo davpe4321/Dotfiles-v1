@@ -1,0 +1,4 @@
+# clang config
+
+CompileFlags:
+  Add: [-std=c++17]
